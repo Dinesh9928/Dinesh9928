@@ -7,7 +7,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently a Computer Engineering Student and Freelance Full Stack Developer
+- 🌱 I’m currently a Computer Engineering Student
 
 - 👯 I’m skilled in C++ ,and Python 
 
