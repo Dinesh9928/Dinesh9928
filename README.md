@@ -7,10 +7,11 @@
 
 
 ## 🙋‍♂️ About Me
+- 🌱 I’m currently a Computer Engineering Student and Freelance Full Stack Developer
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m skilled in C++ ,and Python 
 
-- 👨‍💻 Currently learning to Build Recommeder System and   Advance Deep learning Models
+- 👨‍💻 Currently learning to Build Recommeder System and  Advance Deep learning Models
 
 - 📫 How to reach me **dineshprasad9928@gmail.com**
 
