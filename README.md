@@ -7,13 +7,13 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently a Computer Engineering Student
+- 🌱 Infosys Digital Specialist Engineer with expertise in Java, Scala, Python
 
-- 👯 I’m skilled in C++ ,and Python 
+- 👯 Formerly a Java Developer actively engaged in crafting innovative solutions for our esteemed client, British Telecom.
 
-- 👨‍💻 Currently learning to Build Recommeder System and  Advance Deep learning Models
+- 👨‍💻 Currently excelling as a Scala Developer at Infosys, specializing in Big Data technologies. 
 
-- 📫 How to reach me **dineshprasad9928@gmail.com**
+- 📫 Reach out to at **dineshprasad9928@gmail.com** for collaboration and inquiries. 
 
 
 ## 🚀 Languages and Tools:
