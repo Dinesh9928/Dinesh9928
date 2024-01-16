@@ -13,7 +13,7 @@
 
 - 👨‍💻 Currently excelling as a Scala Developer at Infosys, specializing in Big Data technologies. 
 
-- 📫 Reach out to at **dineshprasad9928@gmail.com** for collaboration and inquiries. 
+- 📫 Reach out to at **dineshprasad99283@gmail.com** for collaboration and inquiries. 
 
 
 ## 🚀 Languages and Tools:
